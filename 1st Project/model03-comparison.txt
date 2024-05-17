@@ -1,0 +1,18 @@
+# Job: 
+# Query: s001G
+# No:  Chain   Z    rmsd lali nres  %id PDB  Description
+   1:  t001-G 51.4  0.7 1116  1130   96                                                                        
+
+# Structural equivalences
+   1: s001-G t001-G     1 - 609 <=>    1 - 609   (GLN   14  - VAL  622  <=> GLN   14  - VAL  622 )                          
+   1: s001-G t001-G   611 - 616 <=>  610 - 615   (ILE  624  - LEU  629  <=> ALA  623  - GLN  628 )                          
+   1: s001-G t001-G   620 - 623 <=>  616 - 619   (TRP  633  - TYR  636  <=> LEU  629  - THR  632 )                          
+   1: s001-G t001-G   624 - 666 <=>  624 - 666   (SER  637  - ASN  679  <=> SER  637  - ASN  679 )                          
+   1: s001-G t001-G   672 - 816 <=>  668 - 812   (ARG  685  - ALA  829  <=> ARG  681  - ALA  825 )                          
+   1: s001-G t001-G   817 - 823 <=>  819 - 825   (ASP  830  - GLN  836  <=> GLN  832  - GLY  838 )                          
+   1: s001-G t001-G   832 -1133 <=>  828 -1129   (ALA  845  - ASP 1146  <=> ALA  841  - ASP 1142 )                          
+
+# Translation-rotation matrices
+-matrix  "s001-G t001-G  U(1,.)   0.999999  0.001010  0.000209           -0.179369"
+-matrix  "s001-G t001-G  U(2,.)  -0.001010  0.999999 -0.000014            0.143897"
+-matrix  "s001-G t001-G  U(3,.)  -0.000209  0.000014  1.000000            0.016325"
