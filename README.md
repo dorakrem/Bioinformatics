@@ -7,7 +7,7 @@ These exercises covered various fundamental concepts in Bioinformatics, aiming t
 
 Project 2
 
-The 2nd Project required reading, summarizing, and presenting the key points from 4 selected articles related to a chosen subject in Bioinformatics (Applications of Neural Networks in Bioinformatics). 
+The 2nd Project required reading, summarizing, and presenting the key points from 4 selected articles related to a chosen subject in Bioinformatics (Applications of Artificial Neural Networks in Bioinformatics). 
 Εach team member summarized and presented key points from 2 articles.
 The goal was to analyze and convey essential information from the articles, enhancing comprehension and communication skills in Bioinformatics. 
 
